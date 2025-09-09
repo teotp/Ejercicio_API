@@ -1,0 +1,3 @@
+Conclusiones 
+- La API de PetStore respondió correctamente.
+- Se probaron las operaciones CRUD básicas: agregar, consultar, actualizar y consultar por estatus.
